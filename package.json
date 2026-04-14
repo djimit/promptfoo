@@ -104,7 +104,9 @@
     },
     "webpack-dev-server": {
       "express": "^4.22.0"
-    }
+    },
+    "qs": "^6.13.0",
+    "serialize-javascript": "^6.0.1"
   },
   "devDependencies": {
     "@adaline/anthropic": "1.11.0",
