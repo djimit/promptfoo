@@ -282,6 +282,7 @@
     "jsdom": "^26.1.0",
     "keyv": "^5.5.4",
     "keyv-file": "^5.3.3",
+    "langsmith": "^0.6.3",
     "lru-cache": "^11.2.2",
     "mathjs": "^15.1.0",
     "minimatch": "^10.1.1",
